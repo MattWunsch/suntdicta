@@ -1,0 +1,39 @@
+{
+  "name": "suntdicta",
+  "version": "1.0.0",
+  "description": "Look up an Ethereum function signature by the 4 bytes of its hash",
+  "main": "index.js",
+  "bin": {
+    "4byte": "bin/4byte"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattWunsch/suntdicta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattWunsch/suntdicta.git/issues"
+  },
+  "homepage": "https://github.com/MattWunsch/suntdicta.git",
+  "author": "JuniorDooley",
+  "license": "MIT",
+  "url": "https://github.com/shanefontaine/4byte/blob/master/LICENSE",
+  "dependencies": {
+    "meow": "^5.0.0",
+    "node-fetch": "2.6.1"
+  },
+  "keywords": [
+    "ethereum",
+    "eth",
+    "numquam",
+    "4byte",
+    "function",
+    "signature",
+    "ut",
+    "keccack",
+    "natus"
+  ],
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^5.2.2"
+  }
+}
